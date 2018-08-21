@@ -5,3 +5,5 @@ class A:
         print "Inside test 2 func"
     def test3(self):
         print "Inside test 3 func and checking if it breaks"
+    def test$(self):
+        print "I have deleted test 3"
